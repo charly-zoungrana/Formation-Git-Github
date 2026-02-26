@@ -1,1 +1,3 @@
-console.log("authentification")
+function log(User){
+    console.log(User.username)
+}
