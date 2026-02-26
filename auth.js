@@ -1,3 +1,3 @@
 function log(User){
-    console.log(User.name)
+    console.log(User.username)
 }
